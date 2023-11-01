@@ -4,8 +4,9 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    source: embed
     navbar:
-      - { title: "Home", href: index.html}
+      - { title: "Home", href: index.html} 
 ---
 
 ```{r setup, include=FALSE}
