@@ -14,8 +14,12 @@ Hello everyone, I am a first-year MS epidemiology student at Columbia University
 
 ![ ](image/selfie.jpg){height=200}
 
+
+
 Here are a few photos that sum up most of my life and what I enjoy:
 Labs, food, and football
+
+
 ![ ](image/labmix.jpg){height=200}
 ![ ](image/food1.jpg){height=200}
 ![ ](image/food2.jpg){height=200}
@@ -24,6 +28,8 @@ Labs, food, and football
 ![ ](image/football1.jpg){height=200}
 
 ![ ](image/football2.jpg){height=200}
+
+
 
 
 And this is a little more about my academic life:
