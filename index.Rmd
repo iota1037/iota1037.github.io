@@ -13,7 +13,17 @@ Hello everyone, I am a first-year MS epidemiology student at Columbia University
 
 ![ ](image/selfie.jpg){height=200}
 
-And this is a little more about me:[Resume] (resume.html)
+Here are a few photos that sum up most of my life and what I enjoy:
+Labs, food, and football
+![ ](image/labmix.jpg){height=200}
+![ ](image/food1.jpg){height=200}
+![ ](image/food2.jpg){height=200}
+
+
+![ ](image/football1.jpg){height=200}
+
+![ ](image/football2.jpg){height=200}
+And this is a little more about my academic life:[Resume] (resume.html)
 
 ---
 
@@ -23,4 +33,4 @@ Instacart is an online grocery service that allows you to shop online from local
 
 A flexdashboard using plotly for that includes at least three distinct plot types for this dataset.
 
-[Click here to view Dashboard (hw4 p2)](instacart.html)
+[Click here to view Dashboard ](instacart.html)
