@@ -17,7 +17,7 @@ library(dplyr)
 ```
 
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 ## The relationship between order time and department of purchased items
 
@@ -45,7 +45,7 @@ plot_ly(x = ~order_hour_of_day, y = ~department, text = ~product_name, type = "s
 
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 ### Distribution of Order for Each Department
 

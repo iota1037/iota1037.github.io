@@ -5,6 +5,7 @@ output:
     toc: true
     toc_float: true
     theme: cerulean
+    
 ---
 
 ## About Me
@@ -23,7 +24,10 @@ Labs, food, and football
 ![ ](image/football1.jpg){height=200}
 
 ![ ](image/football2.jpg){height=200}
-And this is a little more about my academic life:[Resume] (resume.html)
+
+
+And this is a little more about my academic life:
+[Resume](resume.html)
 
 ---
 
