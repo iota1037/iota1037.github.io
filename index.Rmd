@@ -10,29 +10,36 @@ output:
 
 ## About Me
 
-Hello everyone, I am a first-year MS epidemiology student at Columbia University from Beijing, China.
+**Hello everyone, I am a first-year MS epidemiology student at Columbia University from Beijing, China.**
 
 ![ ](image/selfie.jpg){height=200}
 
 
 
-Here are a few photos that sum up most of my life and what I enjoy:
-Labs, food, and football
+**Here are a few photos that sum up most of my life and what I enjoy:**
+
+Lab Work!
 
 
 ![ ](image/labmix.jpg){height=200}
+
+Sweets and Food!
+
 ![ ](image/food1.jpg){height=200}
 ![ ](image/food2.jpg){height=200}
 
+And Football!
 
 ![ ](image/football1.jpg){height=200}
 
 ![ ](image/football2.jpg){height=200}
 
 
+---
 
+## Academic Life
 
-And this is a little more about my academic life:
+Also, this is a little more about my academic life:
 [Resume](resume.html)
 
 ---
@@ -41,6 +48,6 @@ And this is a little more about my academic life:
 
 Instacart is an online grocery service that allows you to shop online from local stores. In New York City, partner stores include Whole Foods, Fairway, and The Food Emporium. Instacart offers same-day delivery, and items that users purchase are delivered within 2 hours.
 
-A flexdashboard using plotly for that includes at least three distinct plot types for this dataset.
+A flexdashboard using plotly for that includes at least three distinct plot types for this dataset is made.
 
 [Click here to view Dashboard ](instacart.html)
