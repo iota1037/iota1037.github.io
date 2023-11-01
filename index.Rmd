@@ -1,0 +1,17 @@
+---
+title: "Yuxin Zhang's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+## About Me
+
+Hello everyone, I am a first-year MS epidemiology student at Columbia University from Beijing, China.
+
+![ ](image/selfie.jpg){height=200}
+
+And this is a little more about me: (resume.html)
+

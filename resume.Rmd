@@ -1,0 +1,126 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    theme: cerulean
+---
+# Yuxin Zhang
+
+New York, New York | [Email](Yz4719@cumc.columbia.edu) | 2164131987 | [LinkedIn](https://www.linkedin.com/in/yuxinzhangsamantha/)
+
+---
+
+## Education 		
+**Columbia University Mailman School of Public Health**
+
+New York, NY
+
+*MS in Epidemiology*
+
+September 2023-Ongoing
+
+**Rutgers the State University of New Jersey**
+
+New Brunswick, NJ 
+
+*B.S. in Public Health*
+
+GPA:3.4 /4.0
+
+September 2018-August 2022
+ 
+---
+
+## Skills and Professional Certification	
+
+
+**Data Analysis**: Basic R, SPSS
+
+**Computer**: Microsoft Excel, Microsoft Word, PowerPoint; Adobe Photoshop, Adobe illustrator
+
+**Certification**: Completed the independent study course of IS-00005.a An Introduction to Hazardous Materials 
+Got the certificate from Emergency Management Institute in 11/2020
+
+---
+
+## Research Experience
+
+
+### National Institute for Occupational Health and Poison Control, Chinese CDC
+
+Beijing, China 09/2022-08/2023
+
+**Research Assistant in Huawei Duan’s Lab**
+
+•	Injection anesthesia and inhalation anesthesia for experimental animals
+
+•	Rat carotid artery blood extraction
+
+•	DNA extraction from blood samples and blood clot
+
+•	Research on the immune damage of PAHs and metals in adults and children under similar exposure conditions 
+
+•	Research on mechanisms of particulate immunotoxicity, oxidative stress and mutagenicity
+
+•	Qingyu Meng, Almira, Yuxin Zhang, Huawei Duan, Effect of atmospheric particulate matter on the immune system of coke oven workers and children: immunosuppressive effects (project presently undergoing)
+
+
+### USCI Medical Laboratory Company
+
+Beijing, China 5/2022-08/2022
+
+**Research Assistant in the Division of Medicine on cancer, genetic sequencing, and more.	**
+
+•	Analysis of extracted patient samples by NGS, dPCR sequencing
+•	Using R and SPSS, Kaplan-Meier was used for survival analysis and cumulative survival function curve drawing, COX regression analysis was used for multiple factors, and Spearman correlation analysis was used to explore the correlation between genes
+•	Cogene mutations targeting KRAS, frequency analysis
+•	Analyzing the T790M mutation caused by TKI resistance of EGFR, infer the drug resistance and drug resistance mechanism of 1st and 2nd generation TKI drugs.
+
+### Rutgers University
+
+New Brunswick, NJ 08/2021- 09/2021
+
+**Assistant Researcher in Dr. Huang Qingrong’s food science Lab**                                                                         
+•	Research and preparation of macromolecular particle whole food Pickering emulsion 
+
+•	Study the digestion and absorption of Pickering emulsion through Franz diffusion cell model and The TNO Gastro-Intestinal Model (TIM)
+
+•	Use ARES Stress Rheometer to measure shear viscosity and strengths and frequency
+
+•	Particle size and ζ-Potential Measurement through Electrophoretic Light Scattering (ELS) and Surface Laser Light Scattering (SLLS)
+
+
+### Harvard Medical School
+
+Online 05/2021-08/2021
+
+**Assistant Researcher in Dr. Sophia’s Laboratory Research**
+
+•	Researched on Pathological changes and immune response caused by SARS infection, how the immune system fights the new coronavirus, and innate immune response to virus infection and its regulation mechanism
+
+•	Learned the public health and general preventive medicine, the definition, types and causes of infectious diseases, corona-virus outbreak, infection and immune response
+
+•	Solved real-world problems, submitted the project report, and demonstrated results to present
+
+•	Prepared the research paper for publication in CPCI/ /EBSCO
+
+### School of Life Sciences, Peking University
+
+Beijing, China 06/2018-08/2018
+
+**Assistant Researcher in Prof. Gu Hongya’s  Lab**
+
+[Profile Link](http://www.bio.pku.edu.cn/homes/index/news_cont_jl/17/25.html)
+
+•	Researched on genetic diversity and molecular adaptability of wild populations of Arabidopsis thaliana
+
+•	Collected more than 30 wild Arabidopsis populations from about 10 provinces across the country to study their genetic diversity and molecular systems
+
+•	Found that some populations may have been distributed very early and have expanded rapidly in China
+
+•	Analyzed of the expression profiles of different populations under adversity revealed obvious differences, and further research is ongoing
+
+---
+
+## Publications	
+Yuting Wang, Yuxin Zhang, Hao Zheng, Fighting against COVID-19: What we Have and What to Do Next, 2022 International Conference on Biotechnology, Life Science and Medical Engineering (BLSME 2022)
