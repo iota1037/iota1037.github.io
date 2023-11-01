@@ -10,41 +10,53 @@ output:
 
 ## About Me
 
-**Hello everyone, I am a first-year MS epidemiology student at Columbia University from Beijing, China.**
+**Hi, I am a first-year MS epidemiology student at Columbia University from Beijing, China.**
 
-![ ](image/selfie.jpg){height=200}
-
-
-
-**Here are a few photos that sum up most of my life and what I enjoy:**
-
-Lab Work!
-
-
-![ ](image/labmix.jpg){height=200}
-
-Sweets and Food!
-
-![ ](image/food1.jpg){height=200}
-![ ](image/food2.jpg){height=200}
-
-And Football!
-
-![ ](image/football1.jpg){height=200}
-
-![ ](image/football2.jpg){height=200}
+![ ](image/selfie.jpg){height=300}
 
 
 ---
 
 ## Academic Life
 
-Also, this is a little more about my academic life:
-[Resume](resume.html)
+
+**My research direction of interest are epidemiology, occupational hazards, immune damage, and methylation.**
+
+**This is a little more about my academic life:
+[Resume](resume.html)**
 
 ---
 
-## Instacart Dashboard
+## Life outside research
+
+**Here are a few photos that sum up most of my life and what I enjoy:**
+
+*Lab Work!*
+
+
+![Food Science Lab in Rutgers, 2022](image/labmix.jpg){height=400}
+
+
+
+*Sweets and Food!*
+
+![Icecream](image/food1.jpg){height=300}
+
+![and more icecream](image/food2.jpg){height=300}
+
+
+
+*And Football!*
+
+![MCI FC Friendlies in Tokyo, 2023](image/football1.jpg){height=300}
+
+![NYCFC in NewYork Yankee, 2023](image/football2.jpg){height=300}
+
+
+
+---
+
+## HW Part 2 Dashboard
 
 Instacart is an online grocery service that allows you to shop online from local stores. In New York City, partner stores include Whole Foods, Fairway, and The Food Emporium. Instacart offers same-day delivery, and items that users purchase are delivered within 2 hours.
 
