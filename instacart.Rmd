@@ -1,0 +1,73 @@
+---
+title: "Instacart Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    navbar:
+      - { title: "Home", href: index.html}
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(p8105.datasets)
+library(plotly)
+library(dplyr)
+
+```
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+## The relationship between order time and department of purchased items
+
+
+```{r, warning=FALSE}
+data(instacart)
+instacart_df = 
+  instacart |> 
+    sample_n(2000) |>
+  select(
+    product_name, aisle, reordered, department, days_since_prior_order, order_hour_of_day 
+  )
+
+```
+
+```{r, warning=FALSE}
+
+
+instacart_df |>
+plot_ly(x = ~order_hour_of_day, y = ~department, text = ~product_name, type = "scatter", mode = "markers", color = ~aisle, colors = "viridis")|>
+  layout(
+    title = "The relationship between order time and department of purchased items",
+    xaxis = list(title = "Order Hour of the Day"),
+    yaxis = list(title = "Department"))
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+### Distribution of Order for Each Department
+
+```{r, warning=FALSE}
+plot_ly(data = instacart_df, x = ~department, y = ~days_since_prior_order, type = "box", text = ~product_name, color = ~department, colors = "viridis") |>
+  layout(
+    title = "Reordered Time Frequency through Departments",
+    xaxis = list(title = "Department"),
+    yaxis = list(title = "Days Since Prior Order")
+  ) 
+```
+
+### Reordered numbers of orders of each departments
+
+```{r, warning=FALSE}
+department_reorder_counts =  instacart_df |>
+  group_by(department) |>
+  summarize(reorder_count = sum(reordered))
+plot_ly(data = department_reorder_counts, x = ~reorder_count, y = ~department, type = "bar", text = ~reorder_count, color = ~department, colors = "viridis")|>
+  layout(
+    title = "Reordered Numbers of Orders by Department",
+    xaxis = list(title = "Reorder Count"),
+    yaxis = list(title = "Department")
+  )
+```

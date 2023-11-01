@@ -13,5 +13,14 @@ Hello everyone, I am a first-year MS epidemiology student at Columbia University
 
 ![ ](image/selfie.jpg){height=200}
 
-And this is a little more about me: (resume.html)
+And this is a little more about me:[Resume] (resume.html)
 
+---
+
+## Instacart Dashboard
+
+Instacart is an online grocery service that allows you to shop online from local stores. In New York City, partner stores include Whole Foods, Fairway, and The Food Emporium. Instacart offers same-day delivery, and items that users purchase are delivered within 2 hours.
+
+A flexdashboard using plotly for that includes at least three distinct plot types for this dataset.
+
+[Click here to view Dashboard (hw4 p2)](instacart.html)
