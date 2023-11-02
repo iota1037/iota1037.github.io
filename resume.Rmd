@@ -2,8 +2,12 @@
 title: "Resume"
 output: 
   html_document:
+    toc: true
+    toc_float: true
     theme: cerulean
+    
 ---
+
 # Yuxin Zhang
 
 New York, New York | [Email](Yz4719@cumc.columbia.edu) | 2164131987 | [LinkedIn](https://www.linkedin.com/in/yuxinzhangsamantha/)
@@ -72,8 +76,11 @@ Beijing, China 5/2022-08/2022
 **Research Assistant in the Division of Medicine on cancer, genetic sequencing, and more.	**
 
 •	Analysis of extracted patient samples by NGS, dPCR sequencing
+
 •	Using R and SPSS, Kaplan-Meier was used for survival analysis and cumulative survival function curve drawing, COX regression analysis was used for multiple factors, and Spearman correlation analysis was used to explore the correlation between genes
+
 •	Cogene mutations targeting KRAS, frequency analysis
+
 •	Analyzing the T790M mutation caused by TKI resistance of EGFR, infer the drug resistance and drug resistance mechanism of 1st and 2nd generation TKI drugs.
 
 ### Rutgers University
@@ -123,4 +130,40 @@ Beijing, China 06/2018-08/2018
 ---
 
 ## Publications	
-Yuting Wang, Yuxin Zhang, Hao Zheng, Fighting against COVID-19: What we Have and What to Do Next, 2022 International Conference on Biotechnology, Life Science and Medical Engineering (BLSME 2022)
+
+Yuting Wang, Yuxin Zhang, Hao Zheng, *Fighting against COVID-19: What we Have and What to Do Next*, 2022 International Conference on Biotechnology, Life Science and Medical Engineering (BLSME 2022)
+
+---
+
+## Academic Projects
+
+### Price Transparency and Hospital Financing
+
+05/2020-08/2020
+
+•	Discussed whether the hospitals would be required to publicly disclose the standard fees for all projects and services or not and analyzed the impact of price transparency on the major United Hospitals or other providers
+
+### Improving Obesity Rate for Young Adult Non-Hispanic Black Female in New Brunswick, NJ
+
+09/2021-12/2021
+
+•	Collected the data of population in New Brunswick, New Jersey, and analyzed the overall adult obesity rate to discuss how that the non-Hispanic black group in New Jersey as a whole has a better environment than other areas, and can also help them better face and improve the obesity problem of adolescents
+
+---
+
+## Leadership & Community Involvement
+
+### New Oriental
+
+Beijing, China 06/2019-08/2019
+
+**Assistant Teacher**
+
+•	Assist the teacher in class notification;
+
+•	Correction, registration and feedback of students' homework and tests;
+
+•	Assist teachers to do a good job of communication, feedback and related work with students and their parents;
+
+•	Complete other teaching-related tasks arranged by the teacher or teaching assistant center.
+
