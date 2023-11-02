@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: readable
     
 ---
 
@@ -56,6 +56,8 @@ Beijing, China 09/2022-08/2023
 
 **Research Assistant in Huawei Duan’s Lab**
 
+[Profile Link for the Occupational Health and Poison Control Lab](https://niohp.chinacdc.cn/en/)
+
 •	Injection anesthesia and inhalation anesthesia for experimental animals
 
 •	Rat carotid artery blood extraction
@@ -83,11 +85,15 @@ Beijing, China 5/2022-08/2022
 
 •	Analyzing the T790M mutation caused by TKI resistance of EGFR, infer the drug resistance and drug resistance mechanism of 1st and 2nd generation TKI drugs.
 
+
 ### Rutgers University
 
 New Brunswick, NJ 08/2021- 09/2021
 
-**Assistant Researcher in Dr. Huang Qingrong’s food science Lab**                                                                         
+**Assistant Researcher in Dr. Huang Qingrong’s food science Lab**
+
+[Profile Link for Dr. Huang Qingrong’s food science Lab](https://foodsci.rutgers.edu/faculty/Huang/)
+
 •	Research and preparation of macromolecular particle whole food Pickering emulsion 
 
 •	Study the digestion and absorption of Pickering emulsion through Franz diffusion cell model and The TNO Gastro-Intestinal Model (TIM)
@@ -111,13 +117,14 @@ Online 05/2021-08/2021
 
 •	Prepared the research paper for publication in CPCI/ /EBSCO
 
+
 ### School of Life Sciences, Peking University
 
 Beijing, China 06/2018-08/2018
 
-**Assistant Researcher in Prof. Gu Hongya’s  Lab**
+**Assistant Researcher in Prof.Gu Hongya’s Lab**
 
-[Profile Link](http://www.bio.pku.edu.cn/homes/index/news_cont_jl/17/25.html)
+[Profile Link for Prof.Gu Hongya’s Lab](http://www.bio.pku.edu.cn/homes/index/news_cont_jl/17/25.html)
 
 •	Researched on genetic diversity and molecular adaptability of wild populations of Arabidopsis thaliana
 
