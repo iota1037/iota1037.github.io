@@ -21,7 +21,7 @@ New York, NY
 
 *MS in Epidemiology*
 
-September 2023-Ongoing
+September 2023- May 2025
 
 **Rutgers the State University of New Jersey**
 
@@ -38,9 +38,13 @@ September 2018-August 2022
 ## Skills and Professional Certification	
 
 
-**Data Analysis**: Basic R, SPSS
+**Data Analysis**:  SPSS, SAS, R; Excel, Microsoft Word, PowerPoint; Adobe Photoshop, Adobe Illustrator
+Multivariable modeling (linear, logistic, Poisson, Cox), confounding control, interaction analysis,
+and survival analysis using R and SAS. Proficient in data wrangling (dplyr), visualization (ggplot2, plotly), and interactive
+dashboards (Shiny, flexdashboard). Experienced with GEE, GLMs, mediation analysis, and public health data application.
 
-**Computer**: Microsoft Excel, Microsoft Word, PowerPoint; Adobe Photoshop, Adobe illustrator
+**Laboratory**: Mouse handling and genotyping, dissection and tissue harvest, PCR/qPCR, Western blot, IHC, IF,
+microscopy-based imaging, cell culture and viability assays.
 
 **Certification**: Completed the independent study course of IS-00005.a An Introduction to Hazardous Materials 
 Got the certificate from Emergency Management Institute in 11/2020
@@ -48,6 +52,21 @@ Got the certificate from Emergency Management Institute in 11/2020
 ---
 
 ## Research Experience
+
+
+### Columbia University Irving Cancer Center
+
+New York, NY 01/2024-06/2024
+
+**Research Assistant in Christine Chio’s Lab**
+
+• Investigated the mechanisms of cachexia in pancreatic ductal adenocarcinoma (PDAC), focusing on adipose tissue browning, lipolysis, and their effects on muscle atrophy through the beta-adrenergic signaling pathway.• Utilized genetically engineered mouse models (GEMM) and transplant models to study metabolic alterations such as insulin resistance and thermogenesis related to AMP-activated protein kinase (AMPK) activity.
+
+• Analyzed the role of methionine sulfoxide reductase A (MSRA) in tumor metabolism, noting its impact on lipid oxidation and potential in targeting KRAS-driven tumorigenesis.
+
+• Conducted comparative studies on KPC and KPCM mice, noting differences in adipose tissue size, methionine reactivity, and survival rates post-treatment.
+
+• Examined the metabolic profiles of MSRA knockout hosts to understand the effects on tumor size and metastasis.
 
 
 ### National Institute for Occupational Health and Poison Control, Chinese CDC
